@@ -11,7 +11,7 @@ Frames](https://www.ithinkdiff.com/create-screenshots-apple-product-frames-ifram
 Prototyping](https://www.youtube.com/watch?v=DGn7BcFGigc)
 
 - Live version of app is 
-[here](https://cspablocortez.github.io/Time2Talk)
+[here](https://theblazinginfinity.github.io/Time2talk/)
 
 - [Canva 
 Protoype](https://www.canva.com/design/DAGREKH803I/gXUIJrzt_bLMEEX6fC5kAw/edit)
